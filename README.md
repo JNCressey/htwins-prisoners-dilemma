@@ -1,4 +1,4 @@
-The function `strategy` in `EWMA_TitForTat.py` is my submission for [carykh's $1,000 Coding Tournament (htwins.net)](https://htwins.net/prisoners-dilemma/). The submitted strategies play off in a tournament of a game of [the prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma).
+The function `strategy` in [EWMA_TitForTat.py](EWMA_TitForTat.py) is my submission for [carykh's $1,000 Coding Tournament (htwins.net)](https://htwins.net/prisoners-dilemma/). The submitted strategies play off in a tournament of a game of [the prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma).
 
 # Strategy
 
